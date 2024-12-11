@@ -5,6 +5,9 @@
   "alpaca_en_demo": {
     "file_name": "alpaca_en_demo.json"
   },
+  "hupd_demo":{
+    "file_name": "hupd_demo.json"
+  },
   "alpaca_zh_demo": {
     "file_name": "alpaca_zh_demo.json"
   },
