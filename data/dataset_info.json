@@ -8,6 +8,9 @@
   "hupd_demo":{
     "file_name": "hupd_demo.json"
   },
+  "patentformer":{
+    "file_name": "patentformer_train.json"
+  },
   "alpaca_zh_demo": {
     "file_name": "alpaca_zh_demo.json"
   },
